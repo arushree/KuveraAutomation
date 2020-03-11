@@ -1,0 +1,382 @@
+{
+	"slider": {
+		"ANDROID": "xpath=(//android.widget.Button)[5]"
+	},
+	"txtLogin": {
+		"ANDROID": "xpath=//android.view.View[@text='LOGIN' or @text='Login']"
+	},
+	"emailaddress": {
+		"ANDROID": "xpath=//*[@resource-id='email']"
+	},
+	"password": {
+		"ANDROID": "xpath=//*[@resource-id='password']"
+	},
+	"loginbtn": {
+		"ANDROID": "xpath=//*[@class='android.widget.Button']"
+	},
+	"Setuplater": {
+		"ANDROID": "xpath=//*[@text='Setup Later']"
+		},
+	"emailaddress2": {
+		"ANDROID": "xpath=//*[@resource-id='email']"
+	},
+	"password2": {
+		"ANDROID": "xpath=//*[@resource-id='password']"
+	},
+	"loginbtn2": {
+		"ANDROID": "xpath=//*[@class='android.widget.Button']"
+	},
+	"Setuplater2": {
+		"ANDROID": "xpath=//*[@text='Setup Later']"
+		},
+	"Doitlater": {
+		"ANDROID": "xpath=//*[@text='Do it later']"
+	},
+	"MutualFunds": {
+		"ANDROID": "xpath=//*[@text='dashboard-invest-mf']"
+		},
+	"detail1": {
+		"ANDROID": "xpath=//*[@text='']"
+		},
+	"detail2": {
+		"ANDROID": "xpath=//*[@text='']"
+		},
+	"detail3": {
+		"ANDROID": "xpath=//*[@text='']"
+		},
+	"detail4": {
+		"ANDROID": "xpath=//*[@text='']"
+	},
+	"Invest": {
+		"ANDROID": "xpath=//*[@text='INVEST']"
+	},
+	"EnterSIP": {
+		"ANDROID": "xpath=//android.view.View[@text='ENTER MONTHLY SIP AMOUNT']/following-sibling::android.view.View/android.widget.EditText"
+	},
+	"EnterLumpsum": {
+		"ANDROID": "xpath=(//android.widget.EditText)[3]"
+	},
+	"AddToCart": {
+		"ANDROID": "xpath=//*[@text='ADD TO CART']"
+	},
+	"Wishlist": {
+		"ANDROID": "xpath=//*[@text='watchlist-selected']"
+	},
+	"kuveraLogo": {
+		"ANDROID": "xpath=//android.view.View[contains(@text,'kuvera-logo-dark')]"
+	},
+	"category": {
+		"ANDROID": "xpath=//android.view.View[@text='CATEGORY' or @text='Category']/following-sibling::android.view.View"
+	},
+	"selectCategory": {
+		"ANDROID": "xpath=(//android.view.View[@text='CATEGORY' or @text='Category']/following-sibling::android.view.View//android.widget.ListView//android.view.View)[5]"
+	},
+	"googlesignin": {
+		"ANDROID": "xpath=//*[@text='SIGN IN WITH GOOGLE']"
+		},
+	"EnterLumpsum2": {
+		"ANDROID": "xpath=(//android.widget.EditText)[2]"
+	},
+	"Invest2": {
+		"ANDROID": "xpath=(//*[@class='android.view.View' and ./parent::*[@class='android.view.View' and ./parent::*[@class='android.view.View']]]/*[@class='android.widget.Button'])[10]"
+	},
+	"idselect": {
+		"ANDROID": "xpath=//*[@resource-id='com.google.android.gms:id/container'][6]"
+	},
+	"allow": {
+		"ANDROID": "xpath=//*[@resource-id='submit_approve_access']"
+	},
+	"Setuplater2": {
+		"ANDROID": "xpath=//*[@text='Setup Later']"
+		
+	},
+	"facebooksignin": {
+		"ANDROID": "xpath=//*[@text='SIGN IN WITH FACEBOOK']"
+	},
+	"facebookemail": {
+		"ANDROID": "xpath=//*[@text='Phone number or email address']"
+	},
+	"facebookpassword": {
+		"ANDROID": "xpath=//*[@text='Password']"
+	},
+	"Loginfb": {
+		"ANDROID": "xpath=//*[@contentDescription='Log In' or @content-desc='Log In']"
+		},
+	"LHS": {
+		"ANDROID": "xpath=//*[@text='hamburger']"
+		},
+	"Setgoal": {
+		"ANDROID": "xpath=//*[@text='Set a goal']"
+	},
+	"Foreign_Vacation_goal": {
+		"ANDROID": "xpath=//*[@text='FOREIGN VACATION']"
+	},
+	"Cost": {
+		"ANDROID": "xpath=//*[@class='android.widget.EditText']"
+		},
+	"Continue": {
+		"ANDROID": "xpath=//*[@text='Continue']"
+			},
+	"Years": {
+		"ANDROID": "xpath=//*[@class='android.widget.EditText']"
+	},
+	"1": {
+		"ANDROID": "xpath=//*[@text='1']"
+	},
+	"2": {
+		"ANDROID": "xpath=//*[@text='2']"
+	},
+	"3": {
+		"ANDROID": "xpath=//*[@text='3']"
+	},
+	"4": {
+		"ANDROID": "xpath=//*[@text='4']"
+	},
+	"5": {
+		"ANDROID": "xpath=//*[@text='5']"
+	},
+	"6": {
+		"ANDROID": "xpath=//*[@text='6']"
+	},
+	"7": {
+		"ANDROID": "xpath=//*[@text='7']"
+	},
+	"8": {
+		"ANDROID": "xpath=//*[@text='8']"
+	},
+	"Reset": {
+		"ANDROID": "xpath=//*[@text='Reset PIN']"
+	},
+	
+	"MutualFund": {
+		"ANDROID": "xpath=//*[@text='dashboard-invest-mf']"
+		},
+	"MF": {
+		"ANDROID": "xpath=//*[@text='Tata Digital India (G)']"	
+		},
+	"1M": {
+		"ANDROID": "xpath=//*[@text='1m']"	
+		},
+	"3M": {
+		"ANDROID": "xpath=//*[@text='3m']"	
+		},
+	"6M": {
+		"ANDROID": "xpath=//*[@text='6m']"	
+		},
+	"YTD": {
+		"ANDROID": "xpath=//*[@text='YTD']"	
+		},
+	"1Y": {
+		"ANDROID": "xpath=//*[@text='1y']"	
+		},
+	"3Y": {
+		"ANDROID": "xpath=//*[@text='3y']"	
+		},
+	"All": {
+		"ANDROID": "xpath=//*[@text='All']"	
+		},
+	"Compare": {
+		"ANDROID": "xpath=((((//*[@id='performance']/*[@class='android.view.View'])[1]/*[@class='android.view.View'])[2]/*/*[@class='android.view.View' and ./parent::*[@class='android.view.View']])[1]/*[@class='android.view.View'])[3]  "	     
+	},
+	"Nifty_MidCap": {
+		"ANDROID": "xpath=//*[@text='Nifty MidCap 100']"		
+		},
+	"Account": {
+		"ANDROID": "xpath=//*[@text='Bhavani Sruti']"	
+		},
+	"Profile": {
+		"ANDROID": "xpath=//*[@text='Profile']"	
+		},
+	"BankAccounts": {
+		"ANDROID": "xpath=//*[@text='Bank Accounts']"
+			},
+	"Filter": {
+		"ANDROID": "xpath=((//*[@id='explore-funds-body']/*[@class='android.view.View'])[2]/*[@class='android.view.View'])[2]"
+	},
+	"F1": {
+		"ANDROID": "xpath=//*[@text='All']"	
+		},
+	"Equity": {
+		"ANDROID": "xpath=//*[@text='Equity']"	
+		},
+	"Focus_Fund": {
+		"ANDROID": "xpath=//*[@text='Focused Fund']"
+		},
+	"SL": {
+		"ANDROID": "xpath=//*[@text='SL']"	
+		},
+	"Apply": {
+		"ANDROID": "xpath=//*[@text='Apply']"	
+	},
+	"Cart": {
+		"ANDROID": "xpath=//*[@class='android.view.View' and ./*[@text=' 4']]"	
+	},
+	"PlaceOrder": {
+		"ANDROID": "xpath=//*[@text='PLACE ORDER']"	
+		},
+	"ADDbank": {
+		"ANDROID": "xpath=//*[@text='ADD BANK']"
+		},
+	"IFSC": {
+		"ANDROID": "xpath=//*[@id='ifsc']"
+		},
+	"Accountno": {
+		"ANDROID": "xpath=//*[@id='account_number']"
+		},
+	"CA": {
+		"ANDROID": "xpath=//*[@resource-id='re_acc_no']"
+		},
+	"TypeAcc": {
+		"ANDROID": "xpath=//*[@text='Savings']"	
+		},
+	"T1": {
+		"ANDROID": "xpath=//*[@resource-id='bank-certify']"	
+		},
+	"T2": {
+		"ANDROID": "xpath=//*[@resource-id='bank-certify']"	
+		},
+	"Nokyc": {
+		"ANDROID": "xpath=//*[@text='Untitled Accountgjvjf']"
+		},
+	"NewAccount": {
+		"ANDROID": "//*[@text='Untitled Accountgjvjf']"	
+		},
+	"Accountkyc": {
+		"ANDROID": "xpath=//*[@text='Bhavani Sruti']"
+		},
+	"Savesmart": {
+		"ANDROID": "xpath=//*[@text='SaveSmart']"
+		},
+	"Amount": {
+		"ANDROID": "xpath=//*[@class='android.widget.EditText'][1]"
+		},
+	"SaveNow": {
+		"ANDROID": "xpath=//*[@text='Save Now']"
+		},
+	"Seedetails": {
+		"ANDROID": "xpath=//*[@text='See SaveSmart details']"
+		},
+	"Gotit": {
+		"ANDROID": "xpath=//*[@text='Got it!']"
+		},
+	"AllAsset": {
+		"ANDROID": "xpath=//*[@text='All Assets ']"
+		},
+	"SelectSavesmart": {
+		"ANDROID": "xpath=//*[@text='SaveSmart']"
+		},
+	"gold": {
+		"ANDROID": "xpath=//*[@text='Gold']"
+		},
+	"EnterAmt": {
+		"ANDROID": "xpath=//*[@class='android.widget.EditText'][1]"
+		},
+	"BUY": {
+		"ANDROID": "xpath=//*[@text='Buy Now']"
+	},
+	"gm": {
+		"ANDROID": "xpath=//*[@text='Enter Grams']"
+		},
+	"entergm": {
+		"ANDROID": "xpath=//*[@class='android.widget.EditText'][1]"
+		},
+	"Sell": {
+		"ANDROID": "xpath=//*[@text='Sell']"
+		},
+	"SelectGold": {
+		"ANDROID": "xpath=//*[@text='Gold' and (./preceding-sibling::* | ./following-sibling::*)[@text='View Summary of:']]"
+		},
+	"Info": {
+		"ANDROID": "xpath=//*[@text='grey']"
+		},
+	"SellNow": {
+		"ANDROID": "xpath=//*[@text='Sell Now']"
+		},
+	"Report": {
+		"ANDROID": "xpath=//*[@text='Reports']"
+		},
+	"value": {
+		"ANDROID": "xpath=//*[@text='Qty 0.0071 gm']"
+		},
+	"BACK": {
+		"ANDROID": "xpath=//*[@text='back_img_bold']"
+		},
+	"sip": {
+		"ANDROID": "xpath=//*[@text='SIP, STP & SWP']"
+		},
+	"sip1": {
+		"ANDROID": "xpath=//*[@text='DSP Equity & Bond (DP)']"
+		},
+	"Edit": {
+		"ANDROID": "xpath=//*[@class='android.widget.Button'][1]"   
+		},
+	"Sipedit": {
+		"ANDROID": "xpath=//*[@class='android.widget.EditText' and (./preceding-sibling::* | ./following-sibling::*)[@text='  '] and (./preceding-sibling::* | ./following-sibling::*)[@text='04 Apr 20']]"               
+	},
+	"EditDate": {
+		"ANDROID": "xpath=//*[@text='04 Apr 20']"
+		},
+	"NewDate": {
+		"ANDROID": "xpath=//*[@text='24 Apr 20']"
+		},
+	"Cancel": {
+		"ANDROID": "xpath=//*[@text='Cancel']"
+		 },
+	"Proceed": {
+		"ANDROID": "xpath=//*[@text='PROCEED']"   
+		},
+	"Sipend": {
+		"ANDROID": "xpath=//*[@class='android.widget.Button'][3]"  
+			},
+	"SKIP": {
+		"ANDROID": "xpath=//*[@text='NO, KEEP THE SIP']"   
+			},
+	"STOP": {
+		"ANDROID": "xpath=//*[@text='YES, STOP THE SIP']"   
+		},
+	"sipstart": {
+		"ANDROID": "xpath=//*[@text='Start SIP']"
+		},
+	"sipamount": {
+		"ANDROID": "xpath=//*[@class='android.widget.EditText'][1]"  
+		},
+	"Date": {
+		"ANDROID": "xpath=//*[@class='android.view.View'][8]"  
+	},
+	"Choose": {
+		"ANDROID": "xpath=//*[@index='7']"
+		},
+	"STARTSIP": {
+		"ANDROID": "xpath=//*[@text='Start SIP']" 
+			},
+	"goldsip": {
+		"ANDROID": "xpath=//*[@text='Kuvera Gold SIP'][1]"   
+		},
+	"EditDate2": {
+		"ANDROID": "xpath=//*[@class='android.view.View'][9]"   
+		},
+	"Datechange": {
+		"ANDROID": "xpath=//*[@index='7']"   
+		},
+	"Save": {
+		"ANDROID": "xpath=//*[@text='Save']"   
+		},
+	"AllAssets": {
+		"ANDROID": "xpath=//*[@text='All Assets ']" 
+		},
+	"Selection": {
+		"ANDROID": "xpath=//*[@class='android.view.View' and ./*[@class='android.widget.Image'] and ./*[@text and @class='android.view.View'] and (./preceding-sibling::* | ./following-sibling::*)[./*[./*[@text]]] and (./preceding-sibling::* | ./following-sibling::*)[@text]]" 
+		},
+	"Mutual": {
+		"ANDROID": "xpath=//*[@text='Mutual Funds']" 
+		},
+	"SavesSmart": {
+		"ANDROID": "xpath=//*[@text='SaveSmart']" 
+		},
+	"Gold": {
+		"ANDROID": "xpath=//*[@text='Gold']" 
+		},
+	"EPF": {
+		"ANDROID": "xpath=//*[@text='EPF']"   
+	}
+}
